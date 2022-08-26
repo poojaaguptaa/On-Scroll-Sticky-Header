@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+body{font-family: 'Cinzel', serif !important;}
+
+/*head section css*/
+
+.mainsection{float: left; width: 100%;}
+.head{float: left; width: 100%;}
+.logo{float: left; width: 100%; text-align: center;}
+.logo img{max-width: 10%; border-radius:0 0 20px 20px;}
+.menu{float: left; width: 100%;border-bottom: 1px solid gray; background: #fff;}
+
+/*sticky class*/
+.fixed{ float: unset; position: fixed;top:0; padding: unset !important;}
+/*menubar css*/
+.menubar{float: left;}
+.navbar-nav{width: 100%;}
+.nav-item{width: 100%;}
+.nav-item a{font-size: 18px;}
+.search{float: left;}
+.search input{float: left; width: 100%;padding: 10px; border: 1px solid gray; border-radius: 20px; margin: 11px auto; text-indent: 10px;}
+.offcanvas.offcanvas-end{width: 80% !important; padding-left: 20px;}
+.offcanvas-header{padding-left: unset !important;}
+/*dummy content css*/
+.web_content{float: left; width: 100%; padding: 70px;}
+.paragraph_1{float: left; width: 100%;}
+.paragraph_1 h1{float: left;padding: 30px 10px;}
+.paragraph_1 p{float: left; width: 100%; padding:30px 10px; font-size: 18px;}
+.paragraph_2{float: left; width: 100%;}
+.paragraph_2 h1{float: left;padding: 30px 10px;}
+.paragraph_2 p{float: left; width: 100%; padding:30px 10px; font-size: 18px;}
